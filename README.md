@@ -2,7 +2,9 @@
 
 ## Helping Human Resource Department of SMEs solve Payroll related problems for free
 
-In this repo, I will be sharing components of payroll application as I build them. This is free for anyone who cares to use them. It is my way of giving back to the society. Haven worked as an Internal Auditor and as an Accountant for over 6 years, I found out that many HR staff detest computing any statutory deductions like PAYE, etc.
+I have been accepted into ALX Software Engineering program slated to start on 19th September 2022. The program is quite demanding and project based - but, my mind is made up. Aside the projects that would be regularly given to us, I have tasked myself to go the extra mile.
+
+So, in this repo, I will be sharing components of payroll application as I build them (using what I learn to build faetures and functionalities). This is free for anyone who cares to use them. It is my way of giving back to the society. Haven worked as an Internal Auditor and as an Accountant for over 6 years, I found out that many HR staff detest computing any statutory deductions like PAYE, etc.
 
 I have in the past built a PAYE excel template that anyone can use to easily compute PAYE [PAYE excel template with formula](https://accountantnextdoor.com/payroll-fundamentals-in-nigeria-how-to-compute-paye-in-microsoft-excel/). However, a lot of people still contact me for further assistance. In a bid to help more people at the same time, I ventured into the world of programming.
 
