@@ -10,7 +10,9 @@ I have in the past built a PAYE excel template that anyone can use to easily com
 
 Hence, the main motivation for embarking on this journey of becoming a full fledge Software Engineer is to help organizations in Nigeria (and other countries on Prohressive tax system) escape the nightmare of dealing with computing the correct PAYE and other components of payroll especially SMEs on budget.
 
+NOTE: I will be pushing out each functionality as it works fine on my local machine. After all components have been developed, tested and pushed out here, I will then compile all into a package that can be easily downloaded and installed on any machine. You can however in the meantime use the individual codes as needed.
 
+I hope you will find this useful.
 
 
 [![Jpeg](https://user-images.githubusercontent.com/105613046/190876791-450f399a-1001-4ad6-82aa-e37b3c9d9bbe.jpg)](https://accountantnextdoor.com/)
